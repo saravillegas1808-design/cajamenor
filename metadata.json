@@ -1,0 +1,6 @@
+{
+  "name": "Viaja con Adri — Control Contable de Caja Menor",
+  "description": "Plataforma administrativa y contable para la gestión, control de soportes, arqueo, reembolso, normatividad colombiana e informes semanales y mensuales de caja menor de la agencia de viajes Viaja con Adri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
